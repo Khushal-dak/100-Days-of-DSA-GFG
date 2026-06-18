@@ -27,6 +27,7 @@ In this challenge, I am solving one Data Structures and Algorithms (DSA) problem
 | Day 2 | Third Largest Element in an Array  | Arrays |
 | Day 3 | Two Sum - Pair with Given Sum      | Arrays |
 | Day 4 | Leaders in an Array                | Arrays |
+| Day 5 | Rotate Array                       | Arrays |
 
 ## 📌 Note
 
