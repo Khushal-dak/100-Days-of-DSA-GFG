@@ -29,6 +29,23 @@ In this challenge, I am solving one Data Structures and Algorithms (DSA) problem
 | Day 4 | Leaders in an Array                | Arrays |
 | Day 5 | Rotate Array                       | Arrays |
 
+## 📈 Progress Summary
+
+* Total Problems Solved: **5/100**
+* Current Topic: **Arrays**
+* Days Completed: **5**
+* Days Remaining: **95**
+
+## 🛠️ Topics Covered
+
+* Arrays
+
 ## 📌 Note
 
 This repository contains only my solutions. Problem statements belong to GeeksforGeeks, and links to the original problems are provided in the source files.
+
+## ⭐ Connect With Me
+
+If you're also participating in a coding challenge, feel free to connect and share your progress!
+
+Let's grow together and become better problem solvers every day. 🚀
