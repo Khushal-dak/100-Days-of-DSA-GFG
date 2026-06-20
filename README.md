@@ -21,20 +21,22 @@ In this challenge, I am solving one Data Structures and Algorithms (DSA) problem
 
 ## 📅 Progress
 
-| Day   | Problem                            | Topic  |
-| ----- | ---------------------------------- | ------ |
-| Day 1 | Second Largest Element in an Array | Arrays |
-| Day 2 | Third Largest Element in an Array  | Arrays |
-| Day 3 | Two Sum - Pair with Given Sum      | Arrays |
-| Day 4 | Leaders in an Array                | Arrays |
-| Day 5 | Rotate Array                       | Arrays |
+| Day   | Problem                            | Topic       |
+| ----- | ---------------------------------- | ----------- |
+| Day 1 | Second Largest Element in an Array | Arrays      |
+| Day 2 | Third Largest Element in an Array  | Arrays      |
+| Day 3 | Two Sum - Pair with Given Sum      | Arrays      |
+| Day 4 | Leaders in an Array                | Arrays      |
+| Day 5 | Rotate Array                       | Arrays      |
+| Day 6 | Last Digit of a^b                  | Mathematics |
+
 
 ## 📈 Progress Summary
 
-* Total Problems Solved: **5/100**
+* Total Problems Solved: **6/100**
 * Current Topic: **Arrays**
-* Days Completed: **5**
-* Days Remaining: **95**
+* Days Completed: **6**
+* Days Remaining: **94**
 
 ## 🛠️ Topics Covered
 
