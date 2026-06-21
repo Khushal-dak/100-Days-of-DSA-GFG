@@ -29,18 +29,22 @@ In this challenge, I am solving one Data Structures and Algorithms (DSA) problem
 | Day 4 | Leaders in an Array                | Arrays      |
 | Day 5 | Rotate Array                       | Arrays      |
 | Day 6 | Last Digit of a^b                  | Mathematics |
+| Day 7 | Choose and Swap                    | Strings     |
+
 
 
 ## 📈 Progress Summary
 
-* Total Problems Solved: **6/100**
-* Current Topic: **Arrays**
-* Days Completed: **6**
-* Days Remaining: **94**
+* Total Problems Solved: **7/100**
+* Current Topics: **Arrays, Mathematics, Strings**
+* Days Completed: **7**
+* Days Remaining: **93**
 
 ## 🛠️ Topics Covered
 
 * Arrays
+* Mathematics
+* Strings
 
 ## 📌 Note
 
