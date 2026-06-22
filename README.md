@@ -30,21 +30,22 @@ In this challenge, I am solving one Data Structures and Algorithms (DSA) problem
 | Day 5 | Rotate Array                       | Arrays      |
 | Day 6 | Last Digit of a^b                  | Mathematics |
 | Day 7 | Choose and Swap                    | Strings     |
+| Day 8 | Maximum Area Between Bars          | Two Pointers|
 
 
 
 ## 📈 Progress Summary
 
-* Total Problems Solved: **7/100**
-* Current Topics: **Arrays, Mathematics, Strings**
-* Days Completed: **7**
-* Days Remaining: **93**
-
+* Total Problems Solved: **8/100**
+* Current Topics: **Arrays, Mathematics, Strings, Two Pointers**
+* Days Completed: **8**
+* Days Remaining: **92**
 ## 🛠️ Topics Covered
 
 * Arrays
 * Mathematics
 * Strings
+* Two pointers
 
 ## 📌 Note
 
