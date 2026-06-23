@@ -31,21 +31,23 @@ In this challenge, I am solving one Data Structures and Algorithms (DSA) problem
 | Day 6 | Last Digit of a^b                  | Mathematics |
 | Day 7 | Choose and Swap                    | Strings     |
 | Day 8 | Maximum Area Between Bars          | Two Pointers|
-
+| Day 9 | Maximum Number of People Defeated | Mathematics |
 
 
 ## 📈 Progress Summary
 
-* Total Problems Solved: **8/100**
+* Total Problems Solved: **9/100**
 * Current Topics: **Arrays, Mathematics, Strings, Two Pointers**
-* Days Completed: **8**
-* Days Remaining: **92**
+* Days Completed: **9**
+* Days Remaining: **91**
+
+  
 ## 🛠️ Topics Covered
 
 * Arrays
 * Mathematics
 * Strings
-* Two pointers
+* Two Pointers
 
 ## 📌 Note
 
