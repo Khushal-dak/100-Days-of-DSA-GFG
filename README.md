@@ -32,14 +32,16 @@ In this challenge, I am solving one Data Structures and Algorithms (DSA) problem
 | Day 7 | Choose and Swap                    | Strings     |
 | Day 8 | Maximum Area Between Bars          | Two Pointers|
 | Day 9 | Maximum Number of People Defeated | Mathematics |
+| Day 10 | Rat Maze With Multiple Jumps | Backtracking |
+
 
 
 ## 📈 Progress Summary
 
-* Total Problems Solved: **9/100**
-* Current Topics: **Arrays, Mathematics, Strings, Two Pointers**
-* Days Completed: **9**
-* Days Remaining: **91**
+* Total Problems Solved: **10/100**
+* Current Topics: **Arrays, Mathematics, Strings, Two Pointers, Backtracking**
+* Days Completed: **10**
+* Days Remaining: **90**
 
   
 ## 🛠️ Topics Covered
@@ -48,6 +50,7 @@ In this challenge, I am solving one Data Structures and Algorithms (DSA) problem
 * Mathematics
 * Strings
 * Two Pointers
+* Backtracking
 
 ## 📌 Note
 
