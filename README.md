@@ -33,15 +33,17 @@ In this challenge, I am solving one Data Structures and Algorithms (DSA) problem
 | Day 8 | Maximum Area Between Bars          | Two Pointers|
 | Day 9 | Maximum Number of People Defeated | Mathematics |
 | Day 10 | Rat Maze With Multiple Jumps | Backtracking |
+| Day 11 | N-Digit Numbers with Increasing Digits | Backtracking |
+
 
 
 
 ## 📈 Progress Summary
 
-* Total Problems Solved: **10/100**
+* Total Problems Solved: **11/100**
 * Current Topics: **Arrays, Mathematics, Strings, Two Pointers, Backtracking**
-* Days Completed: **10**
-* Days Remaining: **90**
+* Days Completed: **11**
+* Days Remaining: **89**
 
   
 ## 🛠️ Topics Covered
